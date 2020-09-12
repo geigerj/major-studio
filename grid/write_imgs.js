@@ -26,20 +26,4 @@ function makeRow(s) {
 </div>`;
 }
 
-
-function linkHandle(s, windowWidth) {
-    const DOT_WIDTH = 3.776;
-    // Number of dots across the row to the name
-    const DOT_COUNT = Math.min(Math.max(windowWidth/11, 65), 130);
-    let [handle,name] = s.split(",");
-    return "<a href=\"https://instagram.com/"
-        + handle.substring(1)
-        + "\">"
-        + handle
-        + ".".repeat(Math.floor(DOT_COUNT - getTextWidth(handle, "12pt Lato")/DOT_WIDTH))
-        + (name || "????") 
-        + "</a>";
-}
-
-
 document.onload = execute();
