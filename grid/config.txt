@@ -1,0 +1,31 @@
+Hands
+Gustav Fischer,hand.jpg
+Bobby Fischer,hand.jpg
+Kathy Fischer,hand.jpg
+Radha Fischer,hand.jpg
+Fischer Fischer,hand.jpg
+Belted King Fischer,hand.jpg
+
+Feet
+Gustav Fischer,hand.jpg
+Bobby Fischer,hand.jpg
+Kathy Fischer,hand.jpg
+Radha Fischer,hand.jpg
+Fischer Fischer,hand.jpg
+Belted King Fischer,hand.jpg
+
+Sidewalk
+Gustav Fischer,hand.jpg
+Bobby Fischer,hand.jpg
+Kathy Fischer,hand.jpg
+Radha Fischer,hand.jpg
+Fischer Fischer,hand.jpg
+Belted King Fischer,hand.jpg
+
+Shadows
+Gustav Fischer,hand.jpg
+Bobby Fischer,hand.jpg
+Kathy Fischer,hand.jpg
+Radha Fischer,hand.jpg
+Fischer Fischer,hand.jpg
+Belted King Fischer,hand.jpg
