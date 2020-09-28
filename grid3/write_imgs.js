@@ -47,6 +47,10 @@ function makeimgElt(ref, width) {
     imgElt.style.top = "50%";
     imgElt.style.left = "50%";
     imgElt.style.transform = "translate(-50%, -50%)";
+    imgElt.onerror = function() {
+        imgElt.onerror = null;
+        imgElt.src= "img/black.jpg";
+    }
     anch.appendChild(imgElt);
     imgCont.appendChild(anch);
     return imgCont;
