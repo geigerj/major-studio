@@ -1,0 +1,60 @@
+div {  
+  margin: 0;
+  font-family: Arial;
+  font-weight: bold;
+  color: #fbf0fa;
+}
+
+body {
+  background-color: black;
+}
+
+#wrapper {
+  width: 100%
+}
+
+.rowWrapper {
+  width: 100%;
+  overflow-x: hidden;
+  margin-bottom: 0.5em;
+  text-align: right;
+}
+
+.nameCont {
+  float: left;
+  display: inline;
+  width: 16%;
+  height: 0;
+  padding-bottom: 2%;
+  padding-right: 3.1%;
+}
+
+.nameTitleSpacer {
+  float: left;
+  display: inline;
+  width: 3%;
+  height: 0;
+  padding-bottom: 2%
+}
+
+.imgCont {
+  position: relative;
+  float: left;
+  display: inline;
+  width: 19%;
+  height: 0;
+  padding-bottom: 19.1%;
+  text-align: center;
+}
+
+.title {
+  float: left;
+  display: inline;
+  text-orientation: mixed;
+  transform: rotate(180deg);
+  writing-mode: vertical-lr;
+  width: 3%;
+  height: 0;
+  padding-bottom: 19.1%;
+}
+
