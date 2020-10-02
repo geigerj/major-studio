@@ -28,7 +28,7 @@ function makeRow(s, width) {
     wrapper.appendChild(titleDiv);
     
     lines
-      .map((ref) => makeimgElt(ref, width * 0.18))
+      .map((ref) => makeimgElt(ref, width * 0.145))
       .forEach((div) => wrapper.appendChild(div));
       
     return wrapper;

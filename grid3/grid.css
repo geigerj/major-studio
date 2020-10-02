@@ -23,10 +23,10 @@ body {
 .nameCont {
   float: left;
   display: inline;
-  width: 16%;
+  width: 13%;
   height: 0;
   padding-bottom: 2%;
-  padding-right: 3.1%;
+  padding-right: 2.6%;
 }
 
 .nameTitleSpacer {
@@ -41,9 +41,9 @@ body {
   position: relative;
   float: left;
   display: inline;
-  width: 19%;
+  width: 16%;
   height: 0;
-  padding-bottom: 19.1%;
+  padding-bottom: 16.1%;
   text-align: center;
 }
 
@@ -55,6 +55,6 @@ body {
   writing-mode: vertical-lr;
   width: 3%;
   height: 0;
-  padding-bottom: 19.1%;
+  padding-bottom: 16.1%;
 }
 
