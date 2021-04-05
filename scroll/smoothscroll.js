@@ -7,10 +7,8 @@ window.onload=async function(){
 		if(e.key === "Enter"){
 			scrolling = !scrolling;
 			while (scrolling) {
-				console.log("foo");
-				console.log(window.scrollX);
-				window.scrollTo(window.scrollX + 1, 0);
-				await new Promise(r => setTimeout(r, Math.floor(Math.random() * Math.floor(60)))); // this is still a little too smooth...
+				window.scrollTo(window.scrollX + 1 + Math.floor(Math.random() * 2), 0);
+				await new Promise(r => setTimeout(r, 40 + Math.floor(Math.random() * 90))); // this is still a little too smooth...
 			}
 		}
 	});
