@@ -1,0 +1,19 @@
+body {
+	background-color: #000000
+}
+
+.scrollcontainer {
+	height:95vh;
+	overflow:visible;
+	white-space:nowrap;
+}
+
+.imgcontainer {
+	display: inline-block;
+	height: inherit;
+}
+
+img {
+	height: 80vh;
+	margin: 8vh;
+}
