@@ -5,6 +5,7 @@ body {
 .scrollcontainer {
 	height:96vh;
 	overflow:visible;
+	font-size: 0px; /* removes space between inline-block elts */
 	white-space:nowrap;
 }
 
